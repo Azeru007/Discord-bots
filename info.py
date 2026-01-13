@@ -28,4 +28,5 @@ async def mem(ctx):
         await ctx.send("Oto twój mem, śmieszne co:", file=picture)
 
 
-bot.run("MTQxNzU2NTIyMDkxODAwMTcxNA.GiUPzT.xwdyCK9iYh4-CRgWAEH8Ya9r0TeGbYJ3ZOsbog")
+
+bot.run("")
